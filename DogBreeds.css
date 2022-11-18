@@ -1,0 +1,25 @@
+body{
+ 	background-image:url(https://i.pinimg.com/originals/14/6f/0a/146f0a9d1fd8918bd31d9127a4d49b0e.png);
+}
+
+table{
+	background-color: white;
+}
+
+th{
+	font-style: oblique;
+	font-size: x-large;
+}
+
+.desc {
+	text-decoration: underline;
+	font-style: italic;
+	font-size: xx-large;
+}
+
+.link {
+	text-decoration-color: aqua;
+	font-style: italic;
+	font-size: xx-large;
+	text-align: center;
+}
